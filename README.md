@@ -4,6 +4,10 @@ Python Multi Language
 # Import Module:
 import languages.lang as myLang
 
+#Init
+myLang.Lanuage('languages')
+Note: languages is directory
+
 # Set Language:
 myLang.setL('ro')
 
