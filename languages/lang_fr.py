@@ -7,6 +7,6 @@
 
 # List with Language
 LangArray = {
-	0: "Română",
-	1: "Bun venit!",
+	0: "Français",
+	1: "Bienvenue!",
 }
