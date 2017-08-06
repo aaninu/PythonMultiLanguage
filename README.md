@@ -4,7 +4,7 @@ Python Multi Language
 # Import Module:
 import languages.lang as myLang
 
-#Init
+# Init
 myLang.Lanuage('languages')
 Note: languages is directory
 
